@@ -1,7 +1,7 @@
 import telebot
 from wb import *
 
-token = "7712321312:AAGTEOW2Yfe1vBFe4s1WpdKN4rr8qn_oEwM"
+token = " "
 bot = telebot.TeleBot(token)
 
 whitelist = [6685845705]
